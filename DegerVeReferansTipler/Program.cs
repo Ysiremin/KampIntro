@@ -6,6 +6,7 @@ namespace DegerVeReferansTipler
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Hello World!");
 
             int sayi1 = 10;
@@ -19,6 +20,7 @@ namespace DegerVeReferansTipler
             sayilar1 = sayilar2;
             sayilar2[0] = 999;
             //sayilar1[0] kaç olur? =999
+
         }
     }
 }
